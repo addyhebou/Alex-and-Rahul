@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Alex-and-Rahul/static/css/main.ce48151d.chunk.css",
-    "main.js": "/Alex-and-Rahul/static/js/main.43653cb5.chunk.js",
-    "main.js.map": "/Alex-and-Rahul/static/js/main.43653cb5.chunk.js.map",
+    "main.js": "/Alex-and-Rahul/static/js/main.adde0a52.chunk.js",
+    "main.js.map": "/Alex-and-Rahul/static/js/main.adde0a52.chunk.js.map",
     "runtime-main.js": "/Alex-and-Rahul/static/js/runtime-main.edab3e62.js",
     "runtime-main.js.map": "/Alex-and-Rahul/static/js/runtime-main.edab3e62.js.map",
     "static/js/2.55d49021.chunk.js": "/Alex-and-Rahul/static/js/2.55d49021.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.edab3e62.js",
     "static/js/2.55d49021.chunk.js",
     "static/css/main.ce48151d.chunk.css",
-    "static/js/main.43653cb5.chunk.js"
+    "static/js/main.adde0a52.chunk.js"
   ]
 }

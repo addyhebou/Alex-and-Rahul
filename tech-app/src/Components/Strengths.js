@@ -5,12 +5,13 @@ import DDD from '../FigmaParts/Strengths Text.png';
 import Icons from '../FigmaParts/Strength Pic.png';
 
 export default function Strengths() {
+    let size = '31%';
     return (
         <div className = "Strengths">
             <img className = "Banner" src = {Banner} alt = "Design Element"/>
             <FadeIn>
                 <div className = "StrengthPics">
-                    <img src = {DDD} alt = "Design, Development, Marketing"/>
+                    <img src = {DDD} alt = "Design, Development, Marketing"  style = {{width: size}}/>
                     <img src = {Icons} alt = "Icon of Premiere Pro, Figma, and React"/>
                 </div>
             </FadeIn>

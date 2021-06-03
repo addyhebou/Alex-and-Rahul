@@ -9,6 +9,7 @@ let changeNumbers = (seconds, names) => {
 }
 
 export default function Home() {
+    let size = '29.25%';
     let names = ['Addy Hebou', 'Developer', 'Video Producer', 'Programmer', 'Designer']
     const [seconds, setSeconds] = useState(0);
     useEffect(() => {
@@ -20,7 +21,7 @@ export default function Home() {
  
     return (
         <div>
-            <img className = "IntroText" src = {IntroText} alt = "Intro Text"/>
+            <img className = "IntroText" src = {IntroText} alt = "Intro Text"  style = {{width: size}}/>
             <footer>
                 <FadeIn>
                     <h1 className = "footerTitle">{names[seconds]}</h1>
